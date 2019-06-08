@@ -7,8 +7,9 @@ name = "pypi"
 pillow = "*"
 
 [dev-packages]
-"flake8" = "*"
 yapf = "*"
+prospector = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
