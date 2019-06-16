@@ -1,6 +1,7 @@
 import random
 from PIL import Image, ImageColor, ImageDraw
 
+# Normal Mode 
 
 def read_of_line_of_ints(text):
     """Given a string with integers in it, return a list of those integers."""
